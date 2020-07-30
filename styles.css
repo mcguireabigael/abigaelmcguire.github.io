@@ -22,12 +22,15 @@ h2
 
 .column.left {
 	width: 10%;
+	float: left;
 } 
 
 .column.middle {
 	width: 60%;
+	float: center;
 }
 
 .column.right {
 	width: 30%;
+	float: right; 
 } 
