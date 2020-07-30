@@ -12,3 +12,26 @@ h2
 	font-family: 'Roboto', sans-serif;
 	font-size: 35px; 
 } 
+
+.header 
+{
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px;
+}
+
+.column {
+  float: left;
+}
+
+.column.left {
+	width: 10%
+} 
+
+.column.middle {
+	width: 60%
+}
+
+.column.right {
+	width: 30
+} 
