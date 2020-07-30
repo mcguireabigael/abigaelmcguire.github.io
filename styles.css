@@ -13,13 +13,6 @@ h2
 	font-size: 35px; 
 } 
 
-.header 
-{
-	background-color: #F1F1F1;
-	text-align: center;
-	padding: 20px;
-}
-
 .main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
